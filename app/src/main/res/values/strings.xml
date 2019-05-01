@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Login</string>
+
+    <string name="sign_in">Sign IN</string>
+    <string name="sign_up">Sign UP</string>
+    <string name="register">Register</string>
+    <string name="facebook">FaceBook</string>
+    <string name="twitter">Twitter</string>
+
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name_text">Enter Your Name</string>
+    <string name="email_text">Enter Your Email</string>
+    <string name="email_text_login">   Enter Your Email</string>
+    <string name="password_text_login">   Password</string>
+    <string name="login">Login</string>
+    <string name="text_sign">Create an Account to Access All Feature.\n Register with Twitter, Facebook, or with Email</string>
+
+    <string name="logout">Log out</string>
+</resources>
